@@ -6,9 +6,9 @@ Eingabe von Stammdaten (allgemeine Stammdaten):
 Name
 Rolle (Teilnehmer:in, Lektor:in, Tutor:in)
 Adresse
-Straße
-Hausnummer
-Postleitzahl
+    Straße -> darf alles sein
+    Hausnummer -> nur integer (bzw. später auch noch Buchstaben oder - / )
+    Postleitzahl -> nur vierstelliger integer, größer als 1009
 
 Main
 Add-Funktion

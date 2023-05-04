@@ -1,3 +1,4 @@
+
 Course Administrator
 Der Course Administrator ist ein Programm, das zur Verwaltung von Daten von Kursen verwendet wird. Anfangs kann es Daten von Studierenden und Vortragenden verwalten.
 
@@ -9,7 +10,8 @@ Straße
 Hausnummer
 Postleitzahl
 
-
-
-
-Ein Hauptmenü "Hallo, willst du die Teilnehmer oder Lektorenliste bearbeiten"
+Main
+Add-Funktion
+Change-Funktion
+Remove-Funktion
+File.txt erstellen mit Namen etc.

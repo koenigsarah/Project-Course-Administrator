@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad310fd4-a6b4-4c85-ba49-b434a516cee2" name="Changes" comment="hier das Python file">
-      <change beforePath="$PROJECT_DIR$/Main/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Main.py" afterDir="false" />
-    </list>
+    <list default="true" id="ad310fd4-a6b4-4c85-ba49-b434a516cee2" name="Changes" comment="hier das Python file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +158,35 @@
       <option name="project" value="LOCAL" />
       <updated>1683207340278</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="hier das Python file">
+      <created>1683207782403</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683207782403</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hier das Python file">
+      <created>1683207847370</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683207847370</updated>
+    </task>
+    <task id="LOCAL-00012" summary="hier das Python file">
+      <created>1683208085886</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683208085886</updated>
+    </task>
+    <task id="LOCAL-00013" summary="hier das Python file">
+      <created>1683208260756</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683208260756</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

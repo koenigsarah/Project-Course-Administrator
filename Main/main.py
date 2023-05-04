@@ -1,1 +1,6 @@
-#Hallo Katharina wie geht es dir
+"""Das ist die Hauptdatei"""
+
+Hauptmenü = input("Hallo, heute ist ein guter Tag um eine Liste zu bearbeiten. ")
+
+print(Hauptmenü)
+

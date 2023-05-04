@@ -6,12 +6,19 @@ Eingabe von Stammdaten (allgemeine Stammdaten):
 Name
 Rolle (Teilnehmer:in, Lektor:in, Tutor:in)
 Adresse
-    Straße -> darf alles sein
-    Hausnummer -> nur integer (bzw. später auch noch Buchstaben oder - / )
-    Postleitzahl -> nur vierstelliger integer, größer als 1009
+    Straße
+    Hausnummer
+    Postleitzahl
 
 Main
 Add-Funktion
 Change-Funktion
 Remove-Funktion
 File.txt erstellen mit Namen etc.
+
+[nummer(matrikel/mitarbeiter), rolle]   -> Integer bzw ID
+vorname         -> nur Buchstaben aA - zZ
+nachname        -> nur Buchstaben aA - zZ
+straße          -> darf alles sein
+hausnummer      -> nur integer (bzw. später auch noch Buchstaben oder - / )
+[plz, stadt]    -> nur vierstelliger integer, größer als 1009 (Verzeichnis PLZ=Stadt?)

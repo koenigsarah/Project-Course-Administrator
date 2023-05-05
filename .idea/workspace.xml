@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad310fd4-a6b4-4c85-ba49-b434a516cee2" name="Changes" comment="hier das Python file">
-      <change beforePath="$PROJECT_DIR$/Main/00_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/00_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/ToDo" beforeDir="false" afterPath="$PROJECT_DIR$/Main/ToDo" afterDir="false" />
-    </list>
+    <list default="true" id="ad310fd4-a6b4-4c85-ba49-b434a516cee2" name="Changes" comment="hier das Python file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,21 +186,7 @@
       <option name="project" value="LOCAL" />
       <updated>1683208260756</updated>
     </task>
-    <task id="LOCAL-00014" summary="hier das Python file">
-      <created>1683272436106</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1683272436106</updated>
-    </task>
-    <task id="LOCAL-00015" summary="hier das Python file">
-      <created>1683273332824</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1683273332825</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

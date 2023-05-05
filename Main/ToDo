@@ -11,23 +11,26 @@ Adresse
 -------------------------------------------------------------------
                             ToDo
 -------------------------------------------------------------------
-Main
-Add-Funktion
-Change-Funktion
-Remove-Funktion
-File.txt erstellen mit Namen etc.
+Main                = S
+    Dict ganz oben
+Add-Funktion        = S
+Change-Funktion     = K
+Remove-Funktion     = K
+File.txt erstellen mit Namen etc. = K
 
-nummer(matrikel/mitarbeiter) -> Integer bzw ID
+nummer(matrikel/mitarbeiter) -> Integer bzw ID 8stellig
 rolle           -> S, V, (T)
-vorname         -> nur Buchstaben aA - zZ
+vorname         -> nur Buchstaben aA - zZ mit ÖÄÜß
 nachname        -> nur Buchstaben aA - zZ
-straße          -> darf alles sein
+straße          -> darf alles sein 100stellig
 hausnummer      -> nur integer (bzw. später auch noch Buchstaben oder - / )
-plz             -> nur vierstelliger Integer, größer als 1009 (Verzeichnis PLZ=Stadt ?? )
-stadt           -> nur Buchstaben
+plz             -> nur 4stelliger Integer, größer als 1009 (Verzeichnis PLZ=Stadt ?? )
+stadt           -> nur Buchstaben 100stellig
 
 try-error für
-- integer
-- vierstellig
-- buchstaben
-- S V (T)
+- integer       = S
+- vierstellig   = S
+- achtstellig   = S
+- buchstaben    = K
+- S V (T)       = K
+

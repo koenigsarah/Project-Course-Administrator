@@ -1,1 +1,1 @@
-def remove_a_person()
+def remove_person()

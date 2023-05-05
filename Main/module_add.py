@@ -1,1 +1,1 @@
-def add_a_person():
+def add_person():

@@ -1,1 +1,1 @@
-def change_a_person():
+def change_person():

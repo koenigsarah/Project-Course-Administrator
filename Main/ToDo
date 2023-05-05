@@ -1,17 +1,35 @@
-
 Course Administrator
-Der Course Administrator ist ein Programm, das zur Verwaltung von Daten von Kursen verwendet wird. Anfangs kann es Daten von Studierenden und Vortragenden verwalten.
+Der Course Administrator ist ein Programm, das zur Verwaltung von Daten von Kursen verwendet wird.
+Anfangs kann es Daten von Studierenden und Vortragenden verwalten.
 
 Eingabe von Stammdaten (allgemeine Stammdaten):
 Name
 Rolle (Teilnehmer:in, Lektor:in, Tutor:in)
 Adresse
-Straße
-Hausnummer
-Postleitzahl
-
+    Straße
+    Hausnummer
+    Postleitzahl
+-------------------------------------------------------------------
+                            ToDo
+-------------------------------------------------------------------
 Main
 Add-Funktion
 Change-Funktion
 Remove-Funktion
 File.txt erstellen mit Namen etc.
+
+nummer(matrikel/mitarbeiter) -> Integer bzw ID
+rolle           -> S, V, (T)
+vorname         -> nur Buchstaben aA - zZ
+nachname        -> nur Buchstaben aA - zZ
+straße          -> darf alles sein
+hausnummer      -> nur integer (bzw. später auch noch Buchstaben oder - / )
+plz             -> nur vierstelliger Integer, größer als 1009 (Verzeichnis PLZ=Stadt ?? )
+stadt           -> nur Buchstaben
+
+try-error für
+- integer
+- vierstellig
+- buchstaben
+- S V (T)
+

@@ -34,3 +34,10 @@ try-error für
 - buchstaben    = K
 - S V (T)       = K
 
+Ablauf:
+1. Was möchtest du bearbeiten? P = Personendaten -> weiter zu 2. und zeigt liste
+2. Was willst du machen? Auswahl: hinzu, ändern, löschen, zurück zu 1.
+    2.1 hinzu: add -> zurück zu 2. und dict anzeigen
+    2.2 ändern: bist du sicher? change, zurück zu 2. und dict anzeigen
+    2.3 löschen: bist du sicher? remove, zurück zu 2. und dict anzeigen
+    2.4 zurück zu 1.

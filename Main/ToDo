@@ -18,14 +18,19 @@ Change-Funktion     = K
 Remove-Funktion     = K
 File.txt erstellen mit Namen etc. = K
 
-nummer(matrikel/mitarbeiter) -> Integer bzw ID 8stellig
-rolle           -> S, V, (T)
-vorname         -> nur Buchstaben aA - zZ mit ÖÄÜß
-nachname        -> nur Buchstaben aA - zZ
-straße          -> darf alles sein 100stellig
-hausnummer      -> nur integer (bzw. später auch noch Buchstaben oder - / )
-plz             -> nur 4stelliger Integer, größer als 1009 (Verzeichnis PLZ=Stadt ?? )
-stadt           -> nur Buchstaben 100stellig
+Keys:
+    nummer(matrikel/mitarbeiter) -> Integer bzw ID 8stellig
+    rolle           -> S, V, (T)
+    vorname         -> nur Buchstaben aA - zZ mit ÖÄÜß
+    nachname        -> nur Buchstaben aA - zZ
+    straße          -> darf alles sein 100stellig
+    hausnummer      -> nur integer (bzw. später auch noch Buchstaben oder - / )
+    plz             -> nur 4stelliger Integer, größer als 1009 (Verzeichnis PLZ=Stadt ?? )
+    stadt           -> nur Buchstaben 100stellig
+Values:
+    alles Tuples -> unchangeable, dh. alle neuen eingaben selben index auf den man dann zugreifen kann
+
+    oder mehrere dicts???
 
 try-error für
 - integer       = S
@@ -34,3 +39,10 @@ try-error für
 - buchstaben    = K
 - S V (T)       = K
 
+Ablauf:
+1. Was möchtest du bearbeiten? P = Personendaten -> weiter zu 2. und zeigt liste
+2. Was willst du machen? Auswahl: hinzu, ändern, löschen, zurück zu 1.
+    2.1 hinzu: add -> zurück zu 2. und dict anzeigen
+    2.2 ändern: bist du sicher? change, zurück zu 2. und dict anzeigen
+    2.3 löschen: bist du sicher? remove, zurück zu 2. und dict anzeigen
+    2.4 zurück zu 1.

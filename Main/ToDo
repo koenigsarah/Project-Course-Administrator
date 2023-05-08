@@ -28,7 +28,7 @@ Keys:
     plz             -> nur 4stelliger Integer, größer als 1009 (Verzeichnis PLZ=Stadt ?? )
     stadt           -> nur Buchstaben 100stellig
 Values:
-    alles Tuples -> unchangeable, dh. alle neuen eingaben selben index auf den man dann zugreifen kann
+    alles listen ->  dh. alle neuen eingaben selben index auf den man dann zugreifen kann
 
     oder mehrere dicts???
 
@@ -40,11 +40,11 @@ try-error für
 - S V (T)       = K
 
 Ablauf:
-1. Was möchtest du bearbeiten? P = Personendaten -> weiter zu 2. und zeigt liste
+(1. Was möchtest du bearbeiten? P = Personendaten -> weiter zu 2. und zeigt liste)
 2. Was willst du machen? Auswahl: hinzu, ändern, löschen, zurück zu 1.
     2.1 hinzu: add -> zurück zu 2. und dict anzeigen
     2.2 ändern: bist du sicher? change, zurück zu 2. und dict anzeigen
     2.3 löschen: bist du sicher? remove, zurück zu 2. und dict anzeigen
-    2.4 zurück zu 1.
+    (2.4 zurück zu 1.)
 
-Testtessttest
+

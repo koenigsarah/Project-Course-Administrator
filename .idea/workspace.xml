@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad310fd4-a6b4-4c85-ba49-b434a516cee2" name="Changes" comment="ToDo: Ablauf des Programms hinzugefügt">
-      <change beforePath="$PROJECT_DIR$/Main/module_change.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/module_change.py" afterDir="false" />
+    <list default="true" id="ad310fd4-a6b4-4c85-ba49-b434a516cee2" name="Changes" comment="ToDo: Idee, Tuples als Values für mehrere Personen">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683444233577</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ToDo: Idee, Tuples als Values für mehrere Personen">
+      <created>1683448128344</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683448128344</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +245,7 @@
     <MESSAGE value="hier das Python file" />
     <MESSAGE value="ToDo - formatiert, text hinzugefügt" />
     <MESSAGE value="ToDo: Ablauf des Programms hinzugefügt" />
-    <option name="LAST_COMMIT_MESSAGE" value="ToDo: Ablauf des Programms hinzugefügt" />
+    <MESSAGE value="ToDo: Idee, Tuples als Values für mehrere Personen" />
+    <option name="LAST_COMMIT_MESSAGE" value="ToDo: Idee, Tuples als Values für mehrere Personen" />
   </component>
 </project>

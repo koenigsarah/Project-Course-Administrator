@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad310fd4-a6b4-4c85-ba49-b434a516cee2" name="Changes" comment="ToDo geändert">
-      <change afterPath="$PROJECT_DIR$/Main/module_display_persons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Project-Course-Administrator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project-Course-Administrator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ad310fd4-a6b4-4c85-ba49-b434a516cee2" name="Changes" comment="change persons funktioniert, noch ohne try-error">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/module_change.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/module_change.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main/try_and_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/try_and_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/katha"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/katha&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.module_change">
     <configuration name="module_change" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project-Course-Administrator" />
@@ -132,7 +128,21 @@
       <option name="presentableId" value="Default" />
       <updated>1683542033088</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change angefangen und display hinzugefügt">
+      <created>1683667857699</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683667857699</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change persons funktioniert, noch ohne try-error">
+      <created>1683716315666</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683716315666</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +159,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="ToDo geändert" />
-    <option name="LAST_COMMIT_MESSAGE" value="ToDo geändert" />
+    <MESSAGE value="change angefangen und display hinzugefügt" />
+    <MESSAGE value="change persons funktioniert, noch ohne try-error" />
+    <option name="LAST_COMMIT_MESSAGE" value="change persons funktioniert, noch ohne try-error" />
   </component>
 </project>

@@ -15,7 +15,7 @@ def hauptmenü():
     elif start == ["c"]:
         #start mit module_change
     elif start == ["r"]:
-        #srat mit module_remove
+        #start mit module_remove
     else:
         try:
 

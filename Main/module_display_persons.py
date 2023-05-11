@@ -25,8 +25,8 @@ def display():
 
     for e in t_daten["id"]:
         print("ID:", t_daten["id"][e - 1], "*",
-              t_daten["nname"][e - 1], t_daten["vname"][e - 1], "*",
-              t_daten["str"][e - 1], t_daten["nr"][e - 1], "*",
+              t_daten["nname"][e - 1], t_daten["vname"][e - 1], "wohnhaft in",
+              t_daten["str"][e - 1], t_daten["nr"][e - 1], ",",
               t_daten["plz"][e - 1], t_daten["ort"][e - 1])
 
 

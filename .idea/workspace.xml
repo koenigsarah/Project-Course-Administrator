@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="165c9ac0-04d2-4e46-aea5-26fb82eccc27" name="Changes" comment="x">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/00_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/00_main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main/module_add.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/module_add.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/module_display_persons.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/module_display_persons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/module_remove.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/module_remove.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +31,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/sk199&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.00_main">
+  <component name="RunManager" selected="Python.module_add">
     <configuration name="00_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project-Course-Administrator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,8 +98,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.module_add" />
-        <item itemvalue="Python.00_main" />
         <item itemvalue="Python.module_display_persons" />
+        <item itemvalue="Python.00_main" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +126,35 @@
       <option name="presentableId" value="Default" />
       <updated>1683792371582</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="x">
+      <created>1683801789918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683801789918</updated>
+    </task>
+    <task id="LOCAL-00004" summary="x">
+      <created>1683801943973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683801943973</updated>
+    </task>
+    <task id="LOCAL-00005" summary="x">
+      <created>1683802008735</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683802008735</updated>
+    </task>
+    <task id="LOCAL-00006" summary="x">
+      <created>1683802031573</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683802031573</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -58,6 +58,3 @@ def add_person():
 
 add_person()
 module_display_persons.display()
-
-
-

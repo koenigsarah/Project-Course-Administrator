@@ -10,6 +10,7 @@ t_daten = {"id": [1, 2, 3, 4, 5],
              "ort": ["Waidhofen/Ybbs", "Wien", "Wien", "Wien", "Wien"]}
 
 
+
 v_daten = {"id": [1, 2, 3, 4, 5],
              "rolle": ["Lektor*in"],
              "vname": ["Sarah", "Anna", "Otto", "Ella", "Lia"],

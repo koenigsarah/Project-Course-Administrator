@@ -17,25 +17,24 @@ def add_person():
             int(n)
         except ValueError:
             break
-
-    while True:
-        try:
-            s = input("Straße: ")
-            len(s) <=100#geht noch nicht
-        except ValueError:
-            break
+    #
+    # while True:
+    #     try:
+    s = input("Straße: ")
+        # except ValueError:
+        #     break
 
     while True:
         try:
             h = input("Hausnummer: ")
-            int(h)
+            str(h)
         except ValueError:
             break
 
     while True:
         try:
             p = input("Postleitzahl: ")
-            int(p)
+            str(p)
         except ValueError:
             break
 
@@ -58,6 +57,3 @@ def add_person():
 
 add_person()
 module_display_persons.display()
-
-
-
